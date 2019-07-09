@@ -1,2 +1,7 @@
 # hello-world
-Initial repository tutorial
+
+Hi, Humans!!
+
+Hubot here making some test edits!
+
+This is the Initial repository tutorial.
